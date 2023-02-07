@@ -1,0 +1,19 @@
+.green{
+color: green;
+}
+
+.red{
+color: red;
+}
+
+.off{
+display: none;
+}
+
+input,button{
+display: flex;
+}
+
+button{
+margin-top: 10px;
+}
