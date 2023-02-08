@@ -1,0 +1,23 @@
+
+.green{
+color: green;
+}
+
+.red{
+color: red;
+}
+
+.off{
+display: none;
+}
+
+button{
+display: flex;
+margin-top: 10px;
+}
+
+div{
+display: block;
+margin-top: 10px;
+}
+
